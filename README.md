@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Secret_Word_React
 Eu criei um projeto em React que consiste em um jogo de palavras, onde o objetivo é acertar as palavras apresentadas na tela, somando pontos a cada acerto e contabilizando erros até a derrota.
->>>>>>> 7e43a9e8880ba3ae9c47fd759c07d0fbf8cc041e
